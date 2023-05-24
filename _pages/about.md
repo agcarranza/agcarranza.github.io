@@ -33,4 +33,4 @@ Publications & Preprints
 **Aldo G. Carranza**, Ryan A. Rossi, Anup Rao, and Eunyee Koh. *KDD 2020*.
 
 - [Heterogeneous Graphlets](https://dl.acm.org/doi/abs/10.1145/3418773)
-- Ryan A. Rossi, Nesreen K. Ahmed, **Aldo G. Carranza**, David Arbour, Anup Rao, Sungchul Kim, and Eunyee Koh. *ACM TKDD*.
+Ryan A. Rossi, Nesreen K. Ahmed, **Aldo G. Carranza**, David Arbour, Anup Rao, Sungchul Kim, and Eunyee Koh. *ACM TKDD*.
