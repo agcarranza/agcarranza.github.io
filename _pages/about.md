@@ -22,12 +22,10 @@ Publications & Preprints
   Ph.D. Dissertation, Stanford University, 2023
 
 - [Federated Offline Policy Learning with Heterogeneous Observational Data](https://arxiv.org/abs/2305.12407)  
-  **Aldo G. Carranza**, Susan Athey  
-  *In Review*
+  **Aldo G. Carranza**, Susan Athey
 
 - [Privacy-Preserving Recommender Systems with Synthetic Query Generation using Differentially Private Language Models](https://arxiv.org/abs/2305.05973)  
-  **Aldo G. Carranza**, Rezsa Farahani, Natalia Ponomareva, Alex Kurakin, Matthew Jagielski, Milad Nasr  
-  *In Review*
+  **Aldo G. Carranza**, Rezsa Farahani, Natalia Ponomareva, Alex Kurakin, Matthew Jagielski, Milad Nasr
 
 - [Flexible and Efficient Contextual Bandits with Heterogeneous Treatment Effect Oracles](https://proceedings.mlr.press/v206/carranza23a.html)  
   **Aldo G. Carranza**, Sanath Krishnamurthy, Susan Athey  
@@ -39,4 +37,4 @@ Publications & Preprints
 
 - [Heterogeneous Graphlets](https://dl.acm.org/doi/abs/10.1145/3418773)  
   Ryan A. Rossi, Nesreen K. Ahmed, **Aldo G. Carranza**, David Arbour, Anup Rao, Sungchul Kim, and Eunyee Koh  
-  *ACM Transactions on Knowledge Discovery from Data (TKDD)*
+  *ACM Transactions on Knowledge Discovery from Data (TKDD), 2020*
